@@ -1,0 +1,39 @@
+.inv {
+    height: 35px;
+}
+
+.box-name {
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 10px;
+    padding: 0px 30px 30px 30px;
+    margin-bottom: 20px;
+}
+
+.box-data-main {
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 10px 10px 0px 0px;
+    padding-left: 30px;
+    background: darkgray;
+}
+
+.box-data {
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 0px;
+    padding-left: 30px;
+}
+
+.box-review-main {
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 10px 10px 0px 0px;
+    padding-left: 30px;
+    background: darkgray;
+    width: 400px;
+}
+
+.box-review {
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 0px;
+    padding-left: 30px;
+    width: 400px;
+
+}
